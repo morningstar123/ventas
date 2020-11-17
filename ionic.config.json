@@ -1,0 +1,7 @@
+{
+  "name": "ventas y compras ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
